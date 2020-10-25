@@ -1,0 +1,9 @@
+{
+  "name": "wp-alchemy",
+  "version": "0.1.0",
+  "description": "flexible WP theme",
+  "main": "index.js",
+  "repository": "https://github.com/RyanNeilson/wp-alchemy-theme.git",
+  "author": "Ryan Neilson",
+  "license": "MIT"
+}
