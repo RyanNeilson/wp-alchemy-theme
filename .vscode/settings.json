@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "stylelint.config": {
+        "extends": "./.stylelintrc"
+    },
+    "stylelint.enable": true,
+    "prettier.tabWidth": 2
+}
